@@ -1,0 +1,9 @@
+metodo	operador	dureza
+A	O	4,8
+A	O	5
+A	P	5,2
+A	P	5,1
+B	O	4,9
+B	O	5
+B	P	6,8
+B	P	7,4
